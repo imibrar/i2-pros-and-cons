@@ -1,0 +1,110 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "i2-pros-cons";
+  src:url("fonts/i2-pros-cons.eot");
+  src:url("fonts/i2-pros-cons.eot?#iefix") format("embedded-opentype"),
+    url("fonts/i2-pros-cons.woff") format("woff"),
+    url("fonts/i2-pros-cons.ttf") format("truetype"),
+    url("fonts/i2-pros-cons.svg#untitled-font-1") format("svg");
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+[data-icon]:before {
+  font-family: "i2-pros-cons" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="icon-"]:before,
+[class*=" icon-"]:before {
+  font-family: "i2-pros-cons" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-check-1:before {
+  content: "\61";
+}
+.icon-check-2:before {
+  content: "\62";
+}
+.icon-check-3:before {
+  content: "\63";
+}
+.icon-square-1:before {
+  content: "\6c";
+}
+.icon-square-2:before {
+  content: "\6d";
+}
+.icon-ban-1:before {
+  content: "\6e";
+}
+.icon-square-3:before {
+  content: "\6f";
+}
+.icon-thumbs-down:before {
+  content: "\66";
+}
+.icon-thumbs-up:before {
+  content: "\67";
+}
+.icon-thumbs-o-up:before {
+  content: "\68";
+}
+.icon-thumbs-o-down:before {
+  content: "\69";
+}
+.icon-thumbs-s-down:before {
+  content: "\6a";
+}
+.icon-thumbs-s-up:before {
+  content: "\6b";
+}
+.icon-check-4:before {
+  content: "\64";
+}
+.icon-check-5:before {
+  content: "\65";
+}
+.icon-cancle-2:before {
+  content: "\70";
+}
+.icon-ban-3:before {
+  content: "\71";
+}
+.icon-cancle:before {
+  content: "\72";
+}
+.icon-ban-2:before {
+  content: "\73";
+}
+.icon-ban-5:before {
+  content: "\74";
+}
+.icon-ban-4:before {
+  content: "\75";
+}
+.icon-cancle-3:before {
+  content: "\76";
+}
+
+.iconpicker .iconpicker-item{
+  text-decoration: none;
+}
