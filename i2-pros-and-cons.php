@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: i2 Pro & Cons
- * Plugin URI: http://i2pc.eyeofpakistan.com/
+ * Plugin URI: https://github.com/imibrar/i2-pros-and-cons
  * Description: The plugin will allow you to show pro & cons in beautiful style.
  * Author: Ibrar Hussain
  * Author URI: https://github.com/imibrar
